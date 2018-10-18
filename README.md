@@ -1,7 +1,7 @@
 # OPENPYXL
 Python Code
 
-#this code does not copy/paste cells from one workbook to another for me. The script does run and produces a list in the Spyder Console of <Cell u'0 - 45'.P7> etc but nothing happening inside the workbooks. Python 2.7
+#this code does not copy/paste cells from one workbook to another. The script does run and produces a list in the Spyder Console of <Cell u'0 - 45'.P7> etc but nothing happening inside the workbooks. Python 2.7
 
     import openpyxl
 
